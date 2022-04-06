@@ -38,3 +38,4 @@ From the summary DataFrame, the data was pivoted into a new DataFrame, and then 
 1. Since there are a greater number of drivers available in urban, PyBer can come up with any innovative process of utilizing the extra drivers productively so that the income of the driver is also increased.
 2. Rural has a smaller number of driver and rides, increasing the driver count will help to increase the average fare. This is also beneficial to the rural population.
 3. Increasing the fare during peak months will increase the sale in other months since people tent to avoid peak charges.
+4. Proper understanding of rural area ride requirements and addresing those suitably will also increase the sales.
